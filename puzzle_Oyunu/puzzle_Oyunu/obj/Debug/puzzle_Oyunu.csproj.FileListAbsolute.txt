@@ -1,0 +1,15 @@
+C:\Users\kübra\source\repos\puzzle_Oyunu\puzzle_Oyunu\bin\Debug\puzzle_Oyunu.exe.config
+C:\Users\kübra\source\repos\puzzle_Oyunu\puzzle_Oyunu\bin\Debug\puzzle_Oyunu.exe
+C:\Users\kübra\source\repos\puzzle_Oyunu\puzzle_Oyunu\bin\Debug\puzzle_Oyunu.pdb
+C:\Users\kübra\source\repos\puzzle_Oyunu\puzzle_Oyunu\obj\Debug\puzzle_Oyunu.csprojAssemblyReference.cache
+C:\Users\kübra\source\repos\puzzle_Oyunu\puzzle_Oyunu\obj\Debug\puzzle_Oyunu.Form1.resources
+C:\Users\kübra\source\repos\puzzle_Oyunu\puzzle_Oyunu\obj\Debug\puzzle_Oyunu.Properties.Resources.resources
+C:\Users\kübra\source\repos\puzzle_Oyunu\puzzle_Oyunu\obj\Debug\puzzle_Oyunu.csproj.GenerateResource.cache
+C:\Users\kübra\source\repos\puzzle_Oyunu\puzzle_Oyunu\obj\Debug\puzzle_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\kübra\source\repos\puzzle_Oyunu\puzzle_Oyunu\obj\Debug\puzzle_Oyunu.exe
+C:\Users\kübra\source\repos\puzzle_Oyunu\puzzle_Oyunu\obj\Debug\puzzle_Oyunu.pdb
+C:\Users\DELL\Desktop\puzzle_Oyunu\puzzle_Oyunu\obj\Debug\puzzle_Oyunu.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\puzzle_Oyunu\puzzle_Oyunu\obj\Debug\puzzle_Oyunu.Form1.resources
+C:\Users\DELL\Desktop\puzzle_Oyunu\puzzle_Oyunu\obj\Debug\puzzle_Oyunu.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\puzzle_Oyunu\puzzle_Oyunu\obj\Debug\puzzle_Oyunu.exe
+C:\Users\DELL\Desktop\puzzle_Oyunu\puzzle_Oyunu\obj\Debug\puzzle_Oyunu.pdb
